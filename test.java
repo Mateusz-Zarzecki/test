@@ -5,7 +5,7 @@ public class test {
     Scanner scanner = new Scanner(System.in);
     StringBuilder text = new StringBuilder();
 
-    final String info = "Enter 3 lines of text";
+    final String info = "Enter 3 lines of text:";
     System.out.println(info);
 
     for(int i = 0;i<3;i++) {
